@@ -1,6 +1,9 @@
 ![groundswell.png](./images/groundswell.png)
 # GS DevOps Mate
 ## A free open source CI/CD Services Agnostic tool from Groundswell Cloud Solutions Inc. to make conventional CI/CD for Salesforce super easy!
+### Authors: Rohan Gore
+### Contributors: Henry M Zhao, Anas Mohammad, Yogaraj K, Leonardo Nicholas
+### Special Thanks to: Savio Jose and Pei Huang from Groundswell Cloud Solutions
 
 # What it is?
 A Dockerized NodeJS CLI App mostly wrapping the SFDX commands to effectively perform some of the CI/CD tasks
